@@ -1,0 +1,110 @@
+'use client'
+
+import { Button } from "@/components/ui/button";
+import Select from "@/components/ui/select"
+import { NoResult } from "@/views/crypto/payment/no-result";
+import { OrderHistory } from "@/views/tables/order-history";
+import { useState } from "react"
+import DatePicker from "react-datepicker";
+
+export const FuturesTransactionHistory = () => {
+  const tabs = [{ name: 'USDⓈ-M', key: 'usds' }, { name: 'COIN-M', key: 'coin' }];
+  const [asset, setAsset] = useState('all')
+  const [type, setType] = useState('all')
+  const [selectedCoin, setSelectedCoin] = useState(tabs[0].key)
+  const [startDate, setStartDate] = useState(new Date());
+  const [endDate, setEndDate] = useState(new Date());
+
+  const onChange = (dates: any) => {
+    const [start, end] = dates;
+    setStartDate(start);
+    setEndDate(end);
+  };
+
+  return (
+    <>
+      <div className="px-4 md:px-0 my-6 flex flex-wrap items-start gap-4">
+        <div className="border border-white-100 dark:border-gray-300 h-10 p-1 rounded-lg flex items-center ">
+          {
+            tabs.map((tab, index) => (
+              <div
+                key={index}
+                className={`cursor-pointer rounded-md text-sm font-semibold h-8 w-[88px] flex items-center justify-center ${selectedCoin === tab.key ? ' bg-white-100 dark:bg-secondary text-black-100 dark:text-white-100' : 'text-gray-300 dark:text-gray-500'}`}
+                onClick={() => setSelectedCoin(tab.key)}
+              >
+                {tab.name}
+              </div>
+            ))
+          }
+        </div>
+        <div className="border h-10 px-6 flex items-center border-white-100 dark:border-gray-300 rounded-lg">
+          <DatePicker
+            selected={startDate}
+            startDate={startDate}
+            selectsRange
+            endDate={endDate}
+            onChange={onChange}
+            dateFormat={"dd-MM-yyyy"}
+            className="bg-transparent text-sm text-black dark:text-white cursor-pointer"
+            calendarClassName="bg-white dark:!bg-black-100 py-4 px-8 !rounded-2xl !border-none !shadow-lg"
+            monthsShown={2}
+          />  
+        </div>
+        <Select
+          options={[
+            { label: 'All', value: 'all' },
+            { label: 'BNB', value: 'bnb' },
+            { label: 'ETH', value: 'eth' },
+            { label: 'BTC', value: 'btc' },
+            { label: 'ETH', value: 'eth' },
+            { label: 'BNB', value: 'bnb' },
+            { label: 'BTC', value: 'btc' },
+            { label: 'ETH', value: 'eth' },
+            { label: 'BNB', value: 'bnb' },
+
+          ]}
+          selectedOptionLabel="Symbol"
+          value={asset}
+          setValue={setAsset}
+          wrapperClassName="w-[184px] h-10 rounded-lg dark:border-gray-300"
+          className="w-[184px]"
+          valueClass="flex justify-between w-full"
+          selectedClass="text-black-100 dark:text-white-100 text-sm"
+          optionsClassName="w-[184px] top-10"
+          isSearchable
+        />
+        <Select
+          options={[
+            { label: 'All', value: 'all' },
+            { label: 'Transfer', value: 'transfer' },
+            { label: 'Realized PNL', value: 'realized_pnl' },
+            { label: 'Commission', value: 'Commission' },
+            { label: 'Funding Fee', value: 'Funding Fee' },
+          ]}
+          selectedOptionLabel="Type"
+          value={type}
+          setValue={setType}
+          wrapperClassName="w-[184px] h-10 rounded-lg dark:border-gray-300"
+          className="w-[184px]"
+          valueClass="flex justify-between w-full"
+          selectedClass="text-black-100 dark:text-white-100 text-sm"
+          optionsClassName="w-[184px] top-10"
+        />
+        <Button className="h-9 text-sm font-semibold mt-0.5 px-3 w-min border-none">
+          Search
+        </Button>
+        <div className="cursor-pointer font-semibold text-sm pt-2">Reset</div>
+      </div>
+
+      <div className="py-10 md:py-20">
+          <NoResult
+            imageClass="mb-0"
+            width={96}
+            height={96}
+            text="No records found."
+          />
+          <div className="px-4 md:px-0 mt-20 text-xs text-gray-300 dark:text-white-500">* Support up to 10,000 trade records in the past 3 months. For more data, select to export the history statement and choose "Big Data Download".</div>
+      </div>
+    </>
+  )
+}

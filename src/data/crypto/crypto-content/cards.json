@@ -1,0 +1,23 @@
+{
+  "title":"How to Buy Crypto",
+  "steps": [
+    {
+      "step": 1,
+      "title": "1.Enter Amount & Select Payment",
+      "description": "Enter the amount, select the available payment method, and choose the payment account or bind the payment card.",
+      "image": "/images/how-step1.svg"
+    },
+    {
+      "step": 2,
+      "title": "2.Confirm Order",
+      "description": "Confirmation of transaction detail information, including trading pair quotes, fees, and other explanatory tips.",
+      "image": "/images/how-step2.svg"
+    },
+    {
+      "step": 3,
+      "title": "3.Receive Crypto",
+      "description": "After successful payment, the purchased crypto will be deposited into your Spot or Funding Wallet.",
+      "image": "/images/how-buy-step3.svg"
+    }
+  ]
+}

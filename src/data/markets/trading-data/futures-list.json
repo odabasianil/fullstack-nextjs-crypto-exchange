@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Open Interest",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  },
+  {
+    "title": "Top Trader Long/Short Ratio (Accounts)",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  },
+  {
+    "title": "Top Trader Long/Short Ratio (Positions)",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  },
+  {
+    "title": "Long/Short Ratio",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  },
+  {
+    "title": "Taker Buy/Sell Volume",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  },
+  {
+    "title": "Basis",
+    "darkImg": "/images/markets/dark/future-chart",
+    "lightImg": "/images/markets/future-chart",
+    "options": [
+      { "label": "5m" },
+      { "label": "15m" },
+      { "label": "30m" },
+      { "label": "1h" },
+      { "label": "2h" },
+      { "label": "4h" },
+      { "label": "6h" },
+      { "label": "12h" },
+      { "label": "1D" }
+    ]
+  }
+]

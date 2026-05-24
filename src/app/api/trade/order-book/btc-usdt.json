@@ -1,0 +1,560 @@
+[
+  {
+    "price": "59492.59",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true,
+    "percentage": 40
+  },
+  {
+    "price": "59492.58",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true,
+    "percentage": 70
+  },
+  {
+    "price": "59492.57",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.56",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.55",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.54",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.53",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false,
+    "percentage": 30
+  },
+  {
+    "price": "59492.52",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false,
+    "percentage": 100
+  },
+  {
+    "price": "59492.51",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.50",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.49",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.48",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.47",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.46",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true,
+    "percentage": 100
+  },
+  {
+    "price": "59492.45",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.44",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.43",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.42",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.41",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.40",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.39",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.38",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.37",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.36",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.35",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.34",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.33",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  },
+  {
+    "price": "59492.41",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.40",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.39",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.38",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.37",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.36",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.35",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.34",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.33",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  }
+  ,
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  },
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  },
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  },
+  {
+    "price": "59492.32",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.31",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.30",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.29",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.28",
+    "amount": "0.02343",
+    "total": "401,289.2134",
+    "is_buy": true
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.26",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.25",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.26",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.25",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.26",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.25",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.27",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.26",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": false
+  },
+  {
+    "price": "59492.25",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  },
+  {
+    "price": "59492.24",
+    "amount": "0.02343",
+    "total": "401,289.2342",
+    "is_buy": true
+  }
+]

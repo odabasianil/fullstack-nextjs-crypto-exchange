@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "question": "Kripto para borsası nedir?",
+    "content": "<div><a class='answer-link' href='/tr/price'>Kripto para</a> borsaları, kullanıcıların <a class='answer-link' href='/tr/price/bitcoin'>Bitcoin</a>, <a class='answer-link' href='/tr/price/ethereum'>Ethereum</a> ve <a class='answer-link' href='/tr/price/tether'>Tether</a> gibi kripto paraları alıp satmasına olanak tanıyan dijital pazar yerleridir. FAZ 3 borsası, işlem hacmi bazında en büyük kripto borsasıdır.</div>"
+  },
+  {
+    "index": 2,
+    "question": "FAZ 3 ne tür ürünler sunuyor?",
+    "content": "<div>FAZ 3, 180'den fazla ülkede 150 milyon kayıtlı kullanıcıya hizmet veren, dünyanın lider kripto para borsasıdır. Düşük komisyonlar ve işlem yapabileceğiniz 350'den fazla kripto para ile FAZ 3; Bitcoin, Altcoin ve diğer sanal varlıkların alım satımı için tercih edilen borsadır.<br><br>FAZ 3 ile kullanıcılar:<br> <li class='list-item-content'><a class='answer-link' href='/tr/trade/BTC_USDT?theme=light&amp;type=spot'>Spot</a>, <a class='answer-link' href='/tr/trade/BTC_USDT?theme=light&amp;type=spot'>Marjin</a> ve <a class='answer-link' href='/tr/futures/markets/um'>Vadeli İşlemler</a> piyasalarında yüzlerce kripto para ile işlem yapabilir.</li><li class='list-item-content'><a class='answer-link' href='/'>FAZ 3 P2P</a> ile kripto para alıp satın.</li><li class='list-item-content'><a class='answer-link' href='/tr/earn'>FAZ 3 Earn</a> ile kripto paranızdan gelir elde edin.</li><li class='list-item-content'><a class='answer-link' href='/'>FAZ 3 Launchpad</a>'de yeni token satın alın veya kazanın.</li><li class='list-item-content'> <a class='answer-link' href='/tr/nft/home'>FAZ 3 NFT</a> pazarında NFT alıp satın, stake edin ve ödünç verin.</li></div>"
+  },
+  {
+    "index": 3,
+    "question": "FAZ 3'te Bitcoin ve diğer kripto paralar nasıl satın alınır?",
+    "content": "<div>FAZ 3'te kripto para satın almak için birçok yöntem vardır. FAZ 3'te <a class='answer-link' href='/'>kripto satın almak</a> için kredi/banka kartı, nakit bakiyesi veya Apple Pay/Google Pay kullanabilirsiniz. Başlamadan önce lütfen Faz3 hesabınızda <a class='answer-link' href='/tr/support/faq/how-to-complete-identity-verification-360027287111'>Kimlik Doğrulaması</a> işlemini tamamlamaya dikkat edin.</div>"
+  },
+  {
+    "index": 4,
+    "question": "Kripto para fiyatları nasıl takip edilir?",
+    "content": "<div>En son kripto para fiyatlarını, işlem hacimlerini, öne çıkan altcoin'leri ve piyasa değerini takip etmenin en kolay yolu <a class='answer-link' href='/tr/price'>FAZ 3 Kripto Para Dizini</a>'dir. Geçmiş coin fiyatlarını, 24 saatlik işlem hacmini ve <a class='answer-link' href='/tr/price/bitcoin'>Bitcoin</a>, <a class='answer-link' href='/tr/price/ethereum'>Ethereum</a>, <a class='answer-link' href='/tr/price/bnb'>BNB</a> gibi ve daha birçok kripto paranın fiyatını gerçek zamanlı olarak öğrenmek için coin'lere tıklayın.</div>"
+  },
+  {
+    "index": 5,
+    "question": "FAZ 3'te kripto para ile nasıl işlem yapılır?",
+    "content": "<div><a class='answer-link' href='/tr/support/faq/spot-margin-trading?c=3&amp;navId=3#15'>Spot</a>, <a class='answer-link' href='/tr/support/faq/spot-margin-trading?c=3&amp;navId=3#16'>Marjin</a>, <a class='answer-link' href='/tr/support/faq/crypto-derivatives?c=4&amp;navId=4#18'>Vadeli İşlemler</a> ve <a class='answer-link' href='/tr/support/faq/374321c9317c473480243365298b8706'>Opsiyonlar</a> piyasaları aracılığıyla FAZ 3'te yüzlerce kripto para ile işlem yapabilirsiniz.<a class='answer-link' href='/'>Alım satıma başlamak</a> için kullanıcıların bir hesap oluşturması, kimlik doğrulamasını tamamlaması, kripto satın alması/yatırması ve işlem yapmaya başlaması gerekir.</div>"
+  }
+]

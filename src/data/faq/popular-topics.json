@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Getting Started",
+    "description": "Learn how to start your first trade here on FAZ 3.",
+    "image": "/images/topics.png"
+  },
+  {
+    "title": "Account Functions",
+    "description": "Learn how to register, secure, and verify your FAZ 3 account.",
+    "image": "/images/topics.png"
+  },
+  {
+    "title": "Buy and Sell",
+    "description": "See how to buy, sell and transfer crypto to and from your account.",
+    "image": "/images/topics.png"
+  },
+  {
+    "title": "Trade",
+    "description": "Check how to trade on FAZ 3, the world-leading exchange.",
+    "image": "/images/topics.png"
+  },
+  {
+    "title": "FAZ 3 Earn",
+    "description": "Learn how to earn passive income on FAZ 3 with your idle assets.",
+    "image": "/images/topics.png"
+  },
+  {
+    "title": "Security Tips",
+    "description": "Follow the security principles to keep your account SAFU.",
+    "image": "/images/topics.png"
+  }
+]

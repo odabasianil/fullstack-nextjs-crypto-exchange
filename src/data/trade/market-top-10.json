@@ -1,0 +1,62 @@
+[
+  {
+    "pair": "BTC/USDT",
+    "multiple": "5x",
+    "last_price": "59492.58",
+    "change": "+0.58%"
+  },
+  {
+    "pair": "ETH/USDT",
+    "multiple": "5x",
+    "last_price": "592.58",
+    "change": "+1.58%"
+  },
+  {
+    "pair": "XRP/USDT",
+    "multiple": "10x",
+    "last_price": "0.58",
+    "change": "-0.13%"
+  },
+  {
+    "pair": "LTC/USDT",
+    "multiple": "5x",
+    "last_price": "58.58",
+    "change": "-2.35%"
+  },
+  {
+    "pair": "ADA/USDT",
+    "multiple": "10x",
+    "last_price": "1.58",
+    "change": "-0.93%"
+  },
+  {
+    "pair": "SOL/USDT",
+    "multiple": "10x",
+    "last_price": "1.58",
+    "change": "+3.12%"
+  },
+  {
+    "pair": "ARB/USDT",
+    "multiple": "10x",
+    "last_price": "1.58",
+    "change": "+0.58%"
+  },
+  {
+    "pair": "DOGE/USDT",
+    "multiple": "5x",
+    "last_price": "1.58",
+    "change": "+0.58%"
+  },
+  {
+    "pair": "FIL/USDT",
+    "multiple": "10x",
+    "last_price": "1.58",
+    "change": "+0.58%"
+  },
+  {
+    "pair": "STX/USDT",
+    "multiple": "10x",
+    "last_price": "1.58",
+    "change": "+0.58%"
+  }
+]

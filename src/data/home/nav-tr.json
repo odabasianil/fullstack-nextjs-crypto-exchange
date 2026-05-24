@@ -1,0 +1,81 @@
+[
+  {
+    "item": "Kripto Satın Al",
+    "link": "/crypto/buy",
+    "icon": "language-icon"
+  },
+  {
+    "item": "Piyasalar",
+    "link": "/markets/overview",
+    "icon": "currency-icon"
+  },
+  {
+    "item": "İşlem",
+    "link": "/trade/BTC_USDT?type=spot",
+    "icon": "language-icon",
+    "subItem": [
+      {
+        "item": "Temel",
+        "subItem": [
+          {
+            "item": "Spot",
+            "link": "/trade/BTC_USDT?type=spot",
+            "desc": "Gelişmiş araçlarla Spot piyasasında alım ve satım yapın"
+          },
+          {
+            "item": "Kaldıraçlı İşlem",
+            "link": "/margin",
+            "desc": "Kârınızı kaldıraç ile artırın",
+            "disabled": true
+          },
+          {
+            "item": "P2P",
+            "link": "/p2p",
+            "desc": "Banka transferi ve 800'den fazla seçenekle kripto para alıp satın",
+            "disabled": true
+          },
+          {
+            "item": "Dönüştür ve Büyük İşlem",
+            "link": "/convert",
+            "desc": "Her ölçekte işlem yapmanın en kolay yolu",
+            "disabled": true
+          }
+        ]
+      },
+      {
+        "item": "Gelişmiş",
+        "subItem": [
+          {
+            "item": "İşlem Botları",
+            "link": "/trading-bots",
+            "desc": "Çeşitli otomatik stratejilerle daha akıllıca işlem yapın - kolay, hızlı ve güvenilir",
+            "disabled": true
+          },
+          {
+            "item": "Kopya İşlem",
+            "link": "/copy-trading",
+            "desc": "En popüler yatırımcıları takip edin",
+            "disabled": true
+          },
+          {
+            "item": "API'ler",
+            "link": "/api",
+            "desc": "Tek bir anahtarla sınırsız fırsatlar",
+            "disabled": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vadeli İşlemler",
+    "link": "/futures/BTC_USDT",
+    "icon": "currency-icon"
+  },
+  {
+    "item": "Kripto Kupon Satın Al",
+    "link": "/buy-coupons/BTC",
+    "icon": "language-icon",
+    "isBordered":true
+  }
+]

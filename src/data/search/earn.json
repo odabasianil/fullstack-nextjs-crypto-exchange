@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "BTC",
+    "price": "$66,510.00",
+    "apr": "4,24%~11.90%",
+    "image": "https://www.cryptocompare.com/media/19633/btc.png"
+  },
+  {
+    "symbol": "ETH",
+    "price": "$4,800.00",
+    "apr": "+3,24%~11.90%",
+    "image": "https://www.cryptocompare.com/media/20646/eth_logo.png"
+  },
+  {
+    "symbol": "BNB",
+    "price": "$600.00",
+    "apr": "2,24%~11.90%",
+    "image": "https://www.cryptocompare.com/media/40485170/bnb.png"
+  },
+  {
+    "symbol": "SOL",
+    "price": "$200.00",
+    "apr": "+1,24%~11.90%",
+    "image": "https://www.cryptocompare.com/media/37747734/sol.png"
+  },
+  {
+    "symbol": "ADA",
+    "price": "$2.00",
+    "apr": "0,24%~11.90%",
+    "image": "https://www.cryptocompare.com/media/12318177/ada.png"
+  }
+]

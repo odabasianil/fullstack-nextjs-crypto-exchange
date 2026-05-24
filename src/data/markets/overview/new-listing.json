@@ -1,0 +1,86 @@
+{
+  "symbol": "USDT",
+  "items": [
+    {
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "pair": "BTC/USDT",
+      "price": "1,058,652.00 / $59,076.56",
+      "change": "-2.53%",
+      "high_low": "1,113,977.00 / 1,037,008.00",
+      "volume": "$112.07K",
+      "market_cap": "$1,166.20B",
+      "trade_link": "/trade/BTC_ZAR?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "pair": "BNB/USDT",
+      "price": "316,689.00 / $57,895.61",
+      "change": "-2.82%",
+      "high_low": "328,500.00 / 309,721.00",
+      "volume": "$10.97M",
+      "market_cap": "$1,142.89B",
+      "trade_link": "/trade/BTC_BRL?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "pair": "USD/USDT",
+      "price": "1,058,652.00 / $59,076.56",
+      "change": "-2.53%",
+      "high_low": "1,113,977.00 / 1,037,008.00",
+      "volume": "$112.07K",
+      "market_cap": "$1,166.20B",
+      "trade_link": "/trade/BTC_TRY?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/12318177/ada.png",
+      "pair": "BTC/USDT",
+      "price": "316,689.00 / $57,895.61",
+      "change": "-2.82%",
+      "high_low": "328,500.00 / 309,721.00",
+      "volume": "$10.97M",
+      "market_cap": "$1,142.89B",
+      "trade_link": "/trade/BTC_IDR?_from=markets"
+    },
+    {
+
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "pair": "BTC/USDT",
+      "price": "1,058,652.00 / $59,076.56",
+      "change": "-2.53%",
+      "high_low": "1,113,977.00 / 1,037,008.00",
+      "volume": "$112.07K",
+      "market_cap": "$1,166.20B",
+      "trade_link": "/trade/BTC_INR?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "pair": "BTC/USDT",
+      "price": "1,058,652.00 / $59,076.56",
+      "change": "-2.53%",
+      "high_low": "1,113,977.00 / 1,037,008.00",
+      "volume": "$112.07K",
+      "market_cap": "$1,166.20B",
+      "trade_link": "/trade/BTC_ZAR?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "pair": "BTC/USDT",
+      "price": "316,689.00 / $57,895.61",
+      "change": "-2.82%",
+      "high_low": "328,500.00 / 309,721.00",
+      "volume": "$10.97M",
+      "market_cap": "$1,142.89B",
+      "trade_link": "/trade/BTC_BRL?_from=markets"
+    },
+    {
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "pair": "SOL/USDT",
+      "price": "1,058,652.00 / $59,076.56",
+      "change": "-2.53%",
+      "high_low": "1,113,977.00 / 1,037,008.00",
+      "volume": "$112.07K",
+      "market_cap": "$1,166.20B",
+      "trade_link": "/trade/BTC_TRY?_from=markets"
+    }
+  ]    
+}

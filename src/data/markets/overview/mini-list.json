@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Hot Coins",
+    "link": "/markets/hot-coins",
+    "list": [
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "price": "$66,510.00",
+        "exchange": "-4,24%",
+        "image": "https://www.cryptocompare.com/media/19633/btc.png",
+        "link": "/markets/hot-coins/bitcoin"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "price": "$4,800.00",
+        "exchange": "+3,24%",
+        "image": "https://www.cryptocompare.com/media/20646/eth_logo.png",
+        "link": "/markets/hot-coins/ethereum"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "price": "$600.00",
+        "exchange": "-2,24%",
+        "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+        "link": "/markets/hot-coins/bnb"
+      }
+    ]
+  },
+  {
+    "title": "New Listing",
+    "link": "/markets/new-listing",
+    "list": [
+      {
+        "name": "Solana",
+        "symbol": "SOL",
+        "price": "$200.00",
+        "exchange": "+1,24%",
+        "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+        "link": "/markets/new-listing/solana"
+      },
+      {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "price": "$2.00",
+        "exchange": "-0,24%",
+        "image": "https://www.cryptocompare.com/media/12318177/ada.png",
+        "link": "/markets/new-listing/cardano"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "price": "$600.00",
+        "exchange": "-2,24%",
+        "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+        "link": "/markets/new-listing/bnb"
+      }
+    ]
+  },
+  {
+    "title": "Top Gainer Coin",
+    "link": "/markets/top-gainer-coin",
+    "list": [
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "price": "$66,510.00",
+        "exchange": "-4,24%",
+        "image": "https://www.cryptocompare.com/media/19633/btc.png",
+        "link": "/markets/hot-coins/bitcoin"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "price": "$4,800.00",
+        "exchange": "+3,24%",
+        "image": "https://www.cryptocompare.com/media/20646/eth_logo.png",
+        "link": "/markets/hot-coins/ethereum"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "price": "$600.00",
+        "exchange": "-2,24%",
+        "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+        "link": "/markets/hot-coins/bnb"
+      }
+    ]
+  },
+  {
+    "title": "Top Volume Coin",
+    "link": "/markets/top-volume-coin",
+    "list": [
+      {
+        "name": "Solana",
+        "symbol": "SOL",
+        "price": "$200.00",
+        "exchange": "+1,24%",
+        "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+        "link": "/markets/new-listing/solana"
+      },
+      {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "price": "$2.00",
+        "exchange": "-0,24%",
+        "image": "https://www.cryptocompare.com/media/12318177/ada.png",
+        "link": "/markets/new-listing/cardano"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "price": "$600.00",
+        "exchange": "-2,24%",
+        "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+        "link": "/markets/new-listing/bnb"
+      }
+    ]
+  }
+]

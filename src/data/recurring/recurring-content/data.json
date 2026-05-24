@@ -1,0 +1,33 @@
+{
+  "dcaSummary": [
+    {
+      "timePeriod": "Last week",
+      "crypto": {
+        "name": "BNB",
+        "price": "$200",
+        "amount": "10",
+        "totalCost": "$2,000"
+      }
+    },
+    {
+      "timePeriod": "After a month",
+      "crypto": {
+        "name": "BNB",
+        "price": "$400",
+        "amount": "10",
+        "totalCost": "$4,000"
+      }
+    }
+  ],
+  "overview": {
+    "title": "How does dollar-cost averaging (DCA) work?",
+    "intro": {
+      "question": "What is DCA?",
+      "answer": "DCA is an investment strategy where an investor invests fixed amounts at regular intervals to reduce the influence of volatility over their investment."
+    },
+    "calculation": {
+      "question": "How do I calculate the DCA amount for my crypto investments?",
+      "answer": "DCA amount = Total cost / Total no. of shares"
+    }
+  }
+}

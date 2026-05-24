@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Favorites",
+    "value": "favorites",
+    "subTabs": [
+      {
+        "name": "All",
+        "data": "all",
+        "value": "all"
+      },
+      {
+        "name": "New Listing",
+        "data": "new_listing",
+        "value": "new_listing"
+      },
+      {
+        "name": "USDC",
+        "data": "usdc",
+        "value": "usdc"
+      },
+      {
+        "name": "AI",
+        "data": "ai",
+        "value": "ai"
+      },
+      {
+        "name": "Bitcoin Eco",
+        "data": "bitcoin_eco",
+        "value": "bitcoin_eco"
+      },
+      {
+        "name": "Cross Pair",
+        "data": "cross_pair",
+        "value": "cross_pair"
+      },
+      {
+        "name": "DAO",
+        "data": "dao",
+        "value": "dao"
+      }
+    ]
+  },
+  {
+    "name": "USDⓈ-M",
+    "value": "usdm",
+    "subTabs": [
+      {
+        "name": "All",
+        "data": "all",
+        "value": "all"
+      },
+      {
+        "name": "New Listing",
+        "data": "new_listing",
+        "value": "new_listing"
+      },
+      {
+        "name": "USDC",
+        "data": "usdc",
+        "value": "usdc"
+      },
+      {
+        "name": "AI",
+        "data": "ai",
+        "value": "ai"
+      },
+      {
+        "name": "Bitcoin Eco",
+        "data": "bitcoin_eco",
+        "value": "bitcoin_eco"
+      },
+      {
+        "name": "Cross Pair",
+        "data": "cross_pair",
+        "value": "cross_pair"
+      },
+      {
+        "name": "DAO",
+        "data": "dao",
+        "value": "dao"
+      }
+    ]
+  },
+  {
+    "name": "COIN-M",
+    "value": "coinm",
+    "subTabs": [
+      {
+        "name": "All",
+        "data": "all",
+        "value": "all"
+      },
+      {
+        "name": "New Listing",
+        "data": "new_listing",
+        "value": "new_listing"
+      },
+      {
+        "name": "USDC",
+        "data": "usdc",
+        "value": "usdc"
+      },
+      {
+        "name": "AI",
+        "data": "ai",
+        "value": "ai"
+      },
+      {
+        "name": "Bitcoin Eco",
+        "data": "bitcoin_eco",
+        "value": "bitcoin_eco"
+      },
+      {
+        "name": "Cross Pair",
+        "data": "cross_pair",
+        "value": "cross_pair"
+      },
+      {
+        "name": "DAO",
+        "data": "dao",
+        "value": "dao"
+      }
+    ]
+  }
+]

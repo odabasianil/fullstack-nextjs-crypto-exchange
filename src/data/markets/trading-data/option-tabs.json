@@ -1,0 +1,6 @@
+[
+  { "name": "Overview", "path": "/markets/trading_data/options" },
+  { "name": "Open Interest & Volume", "path": "/markets/trading_data/options/oi-volume" },
+  { "name": "Max Pain", "path": "/markets/trading_data/options/max-pain" },
+  { "name": "Exercised History", "path": "/markets/trading_data/options/exercised-history" }
+]

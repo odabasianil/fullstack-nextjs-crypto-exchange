@@ -1,0 +1,28 @@
+{
+  "popularTopicsData": [
+    {
+      "text": "Get Started on FAZ 3 Lite to Buy and Sell Your Crypto",
+      "link": "/faq/"
+    },
+    {
+      "text": "How Do I Deposit/Withdraw Cryptocurrency on FAZ 3?",
+      "link": "/faq/deposit-withdraw"
+    },
+    {
+      "text": "Why Hasn’t My Withdrawal Arrived?",
+      "link": "/faq/withdrawal-issues"
+    },
+    {
+      "text": "How to Complete Identity Verification for a Personal Account?",
+      "link": "/faq/identity-verification"
+    },
+    {
+      "text": "Frequently Asked Questions on FAZ 3 App Funding Wallet Migration",
+      "link": "/faq/wallet-migration"
+    },
+    {
+      "text": "How to Get Started with FAZ 3 'Learn & Earn'?",
+      "link": "/faq/learn-earn"
+    }
+  ]
+}

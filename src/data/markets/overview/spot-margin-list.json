@@ -1,0 +1,982 @@
+[
+  {
+    "symbol": "USDT",
+    "items": [
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BNB/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "USD/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "SOL/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "ADA/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BNB/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "FDUSD",
+    "items": [
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/FDUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "TUSD",
+    "items": [
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/TUSD",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "USDT",
+    "items": [
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDT",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "BNB",
+    "items": [
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BNB",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "BTC",
+    "items": [
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/BTC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  },
+  {
+    "symbol": "USDC",
+    "items": [
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_ZAR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_BRL?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_TRY?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "316,689.00 / $57,895.61",
+        "change": "-2.82%",
+        "high_low": "328,500.00 / 309,721.00",
+        "volume": "$10.97M",
+        "market_cap": "$1,142.89B",
+        "trade_link": "/trade/BTC_IDR?_from=markets"
+      },
+      {
+        "pair": "BTC/USDC",
+        "price": "1,058,652.00 / $59,076.56",
+        "change": "-2.53%",
+        "high_low": "1,113,977.00 / 1,037,008.00",
+        "volume": "$112.07K",
+        "market_cap": "$1,166.20B",
+        "trade_link": "/trade/BTC_INR?_from=markets"
+      }
+    ]    
+  }
+]

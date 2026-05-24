@@ -1,0 +1,78 @@
+[
+  {
+    "mobileCode": "971",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/AE.png",
+    "name": "United Arab Emirates"
+  },
+  {
+    "mobileCode": "93",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/AF.png",
+    "name": "Afghanistan"
+  },
+  {
+    "mobileCode": "126",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/AG.png",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "mobileCode": "35",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/AX.png",
+    "name": "Åland Islands"
+  },
+  {
+    "mobileCode": "994",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/AZ.png",
+    "name": "Azerbaijan"
+  },
+  {
+    "mobileCode": "387",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BA.png",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "mobileCode": "124",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BB.png",
+    "name": "Barbados"
+  },
+  {
+    "mobileCode": "880",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BD.png",
+    "name": "Bangladesh"
+  },
+  {
+    "mobileCode": "32",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BE.png",
+    "name": "Belgium"
+  },
+  {
+    "mobileCode": "226",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BF.png",
+    "name":"Burkina Faso"
+  },
+  {
+    "mobileCode": "359",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BG.png",
+    "name":"Bulgaria"
+  },
+  {
+    "mobileCode": "973",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BH.png",
+    "name":"Bahrain"
+  },
+  {
+    "mobileCode": "257",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BI.png",
+    "name":"Burundi"
+  },
+  {
+    "mobileCode": "229",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/BJ.png",
+    "name":"Benin"
+
+  },
+  {
+    "mobileCode": "90",
+    "countryImageUrl": "https://bin.bnbstatic.com/image/countrylogo/TR.png",
+    "name":"Turkey"
+  }
+]

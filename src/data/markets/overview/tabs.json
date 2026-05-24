@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Favorites",
+    "path": "/markets/favorite-spot",
+    "matchText": "favorite",
+    "childTabs": [
+      {
+        "name": "Spot",
+        "path": "/markets/favorite-spot",
+        "matchText": "favorite-spot"
+      },
+      {
+        "name": "Futures",
+        "path": "/markets/favorite-futures",
+        "matchText": "favorite-futures"
+      },
+      {
+        "name": "Options",
+        "path": "/markets/favorite-options",
+        "matchText": "favorite-options"
+      }
+    ]
+  },
+  {
+    "name": "All Cryptos",
+    "path": "/markets/overview",
+    "matchText": "overview coinInfo",
+    "childTabs": [
+      {
+        "name": "All",
+        "path": "/markets/overview",
+        "matchText": "overview"
+      },
+      {
+        "name": "Solana",
+        "path": "/markets/coinInfo-Solana",
+        "matchText": "Solana",
+        "isTrend": true
+      },
+      {
+        "name": "RWA",
+        "path": "/markets/coinInfo-RWA",
+        "matchText": "RWA"
+      },
+      {
+        "name": "Meme",
+        "path": "/markets/coinInfo-Meme",
+        "matchText": "Meme"
+      },
+      {
+        "name": "Payments",
+        "path": "/markets/coinInfo-Payments",
+        "matchText": "Payments"
+      },
+      {
+        "name": "AI",
+        "path": "/markets/coinInfo-AI",
+        "matchText": "AI"
+      },
+      {
+        "name": "Layer 1 / Layer 2",
+        "path": "/markets/coinInfo-Layer1_Layer2",
+        "matchText": "Layer1_Layer2"
+      },
+      {
+        "name": "Metaverse",
+        "path": "/markets/coinInfo-Metaverse",
+        "matchText": "Metaverse"
+      },
+      {
+        "name": "Megadrop",
+        "path": "/markets/coinInfo-Megadrop",
+        "matchText": "Megadrop"
+      },
+      {
+        "name": "Launchpool",
+        "path": "/markets/coinInfo-Launchpool",
+        "matchText": "Launchpool"
+      },
+      {
+        "name": "Seed",
+        "path": "/markets/coinInfo-Seed",
+        "matchText": "Seed"
+      },
+      {
+        "name": "NFT",
+        "path": "/markets/coinInfo-NFT",
+        "matchText": "NFT"
+      },
+      {
+        "name": "DeFi",
+        "path": "/markets/coinInfo-DeFi",
+        "matchText": "DeFi"
+      },
+      {
+        "name": "Gaming",
+        "path": "/markets/coinInfo-Gaming",
+        "matchText": "Gaming"
+      },
+      {
+        "name": "DAO",
+        "path": "/markets/coinInfo-DAO",
+        "matchText": "DAO"
+      },
+      {
+        "name": "Launchpad",
+        "path": "/markets/coinInfo-Launchpad",
+        "matchText": "Launchpad"
+      }
+    ]
+  },
+  {
+    "name": "Spot/Margin Markets",
+    "path": "/markets/spot_margin-USDT",
+    "matchText": "spot_margin",
+    "childTabs": [
+      {
+        "name": "0 Maker Fee",
+        "path": "/markets/spot_margin-0makerfee",
+        "matchText": "0makerfee"
+      },
+      {
+        "name": "0 Fee",
+        "path": "/markets/spot_margin-0fee",
+        "matchText": "0fee"
+      },
+      {
+        "name": "USDT",
+        "path": "/markets/spot_margin-USDT",
+        "matchText": "USDT"
+      },
+      {
+        "name": "FDUSD",
+        "path": "/markets/spot_margin-FDUSD",
+        "matchText": "FDUSD"
+      },
+      {
+        "name": "USDC",
+        "path": "/markets/spot_margin-USDC",
+        "matchText": "USDC"
+      },
+      {
+        "name": "TUSD",
+        "path": "/markets/spot_margin-TUSD",
+        "matchText": "TUSD"
+      },
+      {
+        "name": "BNB",
+        "path": "/markets/spot_margin-BNB",
+        "matchText": "BNB"
+      },
+      {
+        "name": "BTC",
+        "path": "/markets/spot_margin-BTC",
+        "matchText": "BTC"
+      },
+      {
+        "name": "ALTS",
+        "path": "/markets/spot_margin-ALTS",
+        "matchText": "ALTS"
+      },
+      {
+        "name": "FIAT",
+        "path": "/markets/spot_margin-FIAT",
+        "matchText": "FIAT"
+      }
+    ]
+  },
+  {
+    "name": "Futures Markets",
+    "path": "/markets/futures-perpetual",
+    "matchText": "futures-",
+    "childTabs": [
+      {
+        "name": "USDⓈ-M Futures",
+        "path": "/markets/futures-perpetual",
+        "matchText": "futures-perpetual"
+      },
+      {
+        "name": "COIN-M Futures",
+        "path": "/markets/futures-quarterly",
+        "matchText": "futures-quarterly"
+      },
+      {
+        "name": "Options",
+        "path": "/markets/futures-options",
+        "matchText": "futures-options"
+      }
+    ]
+  },
+  {
+    "name": "New Listing",
+    "path": "/markets/newListing",
+    "matchText": "newListing"
+  },
+  {
+    "name": "Zones",
+    "path": "/markets/zones",
+    "matchText": "zones"
+  }
+]

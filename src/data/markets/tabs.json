@@ -1,0 +1,4 @@
+[
+  { "name": "Markets Overview", "matchText": "overview", "path": "/markets/overview", "icon": "overview" },
+  { "name": "Trading Data", "matchText": "trading_data", "path": "/markets/trading_data/rankings", "icon": "trading" }
+]

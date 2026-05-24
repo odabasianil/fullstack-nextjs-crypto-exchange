@@ -1,0 +1,12 @@
+{
+  "mainItems": [
+    { "name": "Bitcoin", "matchText": "BTC", "path": "/buy-coupons/BTC" },
+    { "name": "Etherium", "matchText": "ETH", "path": "/buy-coupons/ETH" },
+    { "name": "Solana", "matchText": "SOL", "path": "/buy-coupons/SOL" },
+    { "name": "Xrp", "matchText": "XRP", "path": "/buy-coupons/XRP" }
+  ],
+  "secondaryItems": [
+    { "name": "Orders", "path": "/", "icon":"orders" },
+    { "name": "FAQ", "path": "/", "icon":"faq" }
+  ]
+}

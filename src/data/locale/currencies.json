@@ -1,0 +1,12 @@
+[
+  {
+    "name": "USD",
+    "symbol": "$",
+    "link": "USD"
+  },
+  {
+    "name": "TRY",
+    "symbol": "₺",
+    "link": "TRY"
+  }
+]

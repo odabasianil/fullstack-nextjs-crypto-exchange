@@ -1,0 +1,43 @@
+ {
+    "title":"Benefits of DCA via Recurring Buy",
+    "title2":"Risks of DCA via Recurring Buy",
+    "title3":"Missing Out on Large Gains",
+    "title4":"Crypto Facts",
+    "title5":"Lack of Detailed Investment Information",
+    "description":"DCA does not include lump sum investments during market dips, thus you may miss out on a larger profit.",
+    "description2":"Such large gains require investors to time the market correctly which is almost impossible, which is why DCA can help smooth out market timings",
+    "description3":"DCA strategy does not help identify good investments. Hence, it’s important to DYOR before committing to a DCA approach.",
+    "items": [
+      {
+        "title": "Steady Portfolio Growth",
+        "description": "Consistent investments at periodic intervals gradually grows your crypto wealth over time and reap the gains of invested projects’ growth.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Disciplined Saving",
+        "description": "Automates your crypto purchases and ensures you invest with discipline regardless of market conditions.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Risk Reduction",
+        "description": "Manages impact from the volatile crypto market by spreading out your investments and smoothing out price swings.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Convenience & Flexibility",
+        "description": "Choose between weekly, bi-weekly or even monthly purchases and cryptocurrencies you want to buy beforehand.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Easy Access to FAZ 3 Ecosystem",
+        "description": "Get your stash of crypto ready to explore other FAZ 3 products such as staking, spot trading, or even buying your first NFT.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Emotional Detachment",
+        "description": "Remove the stress of timing the market and making impulsive decisions based on market conditions.",
+        "icon": "/images/grow-g.svg"
+      }
+    ]
+  }
+

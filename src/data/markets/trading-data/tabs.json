@@ -1,0 +1,6 @@
+[
+  { "name": "Rankings", "matchText": "ranking", "path": "/markets/trading_data/rankings" },
+  { "name": "USDⓈ-M Futures", "matchText": "perpetual", "path": "/markets/trading_data/futures/perpetual" },
+  { "name": "COIN-M Futures", "matchText": "quarterly", "path": "/markets/trading_data/futures/quarterly" },
+  { "name": "Options", "matchText": "options", "path": "/markets/trading_data/options" }
+]

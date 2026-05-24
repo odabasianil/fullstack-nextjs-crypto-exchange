@@ -1,0 +1,22 @@
+{
+  "currencies": [
+    { "label": "Buy with USD", "image": "/images/seo-usd.svg" },
+    { "label": "Buy with EUR", "image": "/images/seo-eur.svg" },
+    { "label": "Buy with PHP", "image": "/images/seo-php.svg" },
+    { "label": "Buy with AUD", "image": "/images/seo-aud.svg" },
+    { "label": "Buy with GBP", "image": "/images/seo-gbp.svg" },
+    { "label": "Buy with RUB", "image": "/images/seo-rub.svg" }
+  ],
+  "pairs": [
+    { "label": "BTC to USD", "link": "/crypto/buy/USD/BTC", "image": "/images/seo-usd.svg" },
+    { "label": "ETH to USD", "link": "/crypto/buy/USD/ETH", "image": "/images/seo-eth.svg" },
+    { "label": "LTC to USD", "link": "/crypto/buy/USD/LTC", "image": "/images/seo-eth.svg" },
+    { "label": "XRP to USD", "link": "/crypto/buy/USD/XRP", "image": "/images/seo-usd.svg" },
+    { "label": "BTC to USD", "link": "/crypto/buy/USD/BTC", "image": "/images/seo-usd.svg" },
+    { "label": "ETH to USD", "link": "/crypto/buy/USD/ETH", "image": "/images/seo-eth.svg" },
+    { "label": "LTC to USD", "link": "/crypto/buy/USD/LTC", "image": "/images/seo-eth.svg" },
+    { "label": "XRP to USD", "link": "/crypto/buy/USD/XRP", "image": "/images/seo-usd.svg" },
+    { "label": "BTC to USD", "link": "/crypto/buy/USD/BTC", "image": "/images/seo-usd.svg" },
+    { "label": "ETH to USD", "link": "/crypto/buy/USD/ETH", "image": "/images/seo-eth.svg" }
+  ]
+}

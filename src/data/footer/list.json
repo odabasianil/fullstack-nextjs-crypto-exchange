@@ -1,0 +1,80 @@
+[
+  {
+    "index": 1,
+    "items": [
+      {
+        "title": "About Us",
+        "items": [
+          {
+            "title": "News",
+            "url": "/news"
+          },
+          {
+            "title": "Agreements",
+            "url": "/terms"
+          },
+          {
+            "title": "Terms",
+            "url": "/terms"
+          },
+          {
+            "title": "Privacy",
+            "url": "/terms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "items": [
+      {
+        "title": "Trade",
+        "items": [
+          {
+            "title": "BTC/USDT",
+            "url": "/trade/BTC_USDT"
+          },
+          {
+            "title": "ETH/USDT",
+            "url": "/trade/ETH_USDT"
+          },
+          {
+            "title": "AVAX/USDT",
+            "url": "/trade/AVAX_USDT"
+          },
+          {
+            "title": "USDT/TRY",
+            "url": "/trade/USDT_TRY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "items": [
+      {
+        "title": "Learning",
+        "items": [
+          {
+            "title": "Bitcoin Price",
+            "url": "/trade/BTC_USDT"
+          },
+          {
+            "title": "Ethereum Price",
+            "url": "/trade/ETH_USDT"
+          },
+          {
+            "title": "AVAX Price",
+            "url": "/trade/AVAX_USDT"
+          },
+          {
+            "title": "Crypto News",
+            "url": "/tr/news"
+          }
+        ]
+      }
+    ]
+  }
+]

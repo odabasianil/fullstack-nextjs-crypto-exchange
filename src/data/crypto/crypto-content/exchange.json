@@ -1,0 +1,32 @@
+[
+  {
+    "title": "USDT to AZN",
+    "items": [
+      { "currency1Amount": 0.5, "currency2Amount": 0.4999541 },
+      { "currency1Amount": 1, "currency2Amount": 0.9999082 },
+      { "currency1Amount": 5, "currency2Amount": 4.9995411 },
+      { "currency1Amount": 10, "currency2Amount": 9.9990822 },
+      { "currency1Amount": 50, "currency2Amount": 50.0 },
+      { "currency1Amount": 100, "currency2Amount": 99.99 },
+      { "currency1Amount": 500, "currency2Amount": 499.95 },
+      { "currency1Amount": 1000, "currency2Amount": 999.91 },
+      { "currency1Amount": 250, "currency2Amount": 249.97 },
+      { "currency1Amount": 150, "currency2Amount": 149.99 }
+    ]
+  },
+  {
+    "title": "AZN to USDT",
+    "items": [
+      { "currency1Amount": 0.5, "currency2Amount": 0.5000459 },
+      { "currency1Amount": 1, "currency2Amount": 1.0000918 },
+      { "currency1Amount": 5, "currency2Amount": 5.000459 },
+      { "currency1Amount": 10, "currency2Amount": 10.0 },
+      { "currency1Amount": 50, "currency2Amount": 50.0 },
+      { "currency1Amount": 100, "currency2Amount": 100.01 },
+      { "currency1Amount": 500, "currency2Amount": 500.05 },
+      { "currency1Amount": 1000, "currency2Amount": 1000.09 },
+      { "currency1Amount": 250, "currency2Amount": 250.02 },
+      { "currency1Amount": 150, "currency2Amount": 150.03 }
+    ]
+  }
+]

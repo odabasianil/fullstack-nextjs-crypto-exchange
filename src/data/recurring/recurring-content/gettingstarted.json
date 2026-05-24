@@ -1,0 +1,31 @@
+ {
+    "title":"Getting started",
+    "items": [
+      {
+        "title": "Steady Portfolio Growth",
+        "description": "Consistent investments at periodic intervals gradually grows your crypto wealth over time and reap the gains of invested projects’ growth.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Disciplined Saving",
+        "description": "Automates your crypto purchases and ensures you invest with discipline regardless of market conditions.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Risk Reduction",
+        "description": "Manages impact from the volatile crypto market by spreading out your investments and smoothing out price swings.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Convenience & Flexibility",
+        "description": "Choose between weekly, bi-weekly or even monthly purchases and cryptocurrencies you want to buy beforehand.",
+        "icon": "/images/grow-g.svg"
+      },
+      {
+        "title": "Easy Access to FAZ 3 Ecosystem",
+        "description": "Get your stash of crypto ready to explore other FAZ 3 products such as staking, spot trading, or even buying your first NFT.",
+        "icon": "/images/grow-g.svg"
+      }
+    ]
+  }
+

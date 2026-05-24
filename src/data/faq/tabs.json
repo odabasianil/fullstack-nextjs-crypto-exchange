@@ -1,0 +1,187 @@
+[
+  {
+    "icon": "/images/account-functions.png",
+    "text": "Account functions",
+    "link": "/faq/account-functions",
+    "key": 1,
+    "submenus": [
+      {
+        "text": "Identity verification",
+        "link": "/faq/identity-verification"
+      },
+      {
+        "text": "Two-Factor Authentication (2FA)",
+        "link": "/faq/two-factor-authentication-2fa"
+      },
+      {
+        "text": "Guide to Account Functions",
+        "link": "/faq/guide-to-account-functions"
+      },
+      {
+        "text": "Wallets",
+        "link": "/faq/wallets"
+      },
+      {
+        "text": "Rewards Hub",
+        "link": "/faq/rewards-hub"
+      },
+      {
+        "text": "Referral & Affiliates",
+        "link": "/faq/referral-affiliates"
+      }
+    ]
+  },
+  {
+    "icon": "/images/faq-tutorial.png",
+    "text": "Tutorial",
+    "link": "/faq/tutorial",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/web3-wallet.png",
+    "text": "Web3 Wallet",
+    "link": "/faq/web3-wallet",
+    "key": 1,
+    "submenus": [
+      {
+        "text": "Web3 Wallet Guide",
+        "link": "/faq/web3-wallet-guide"
+      },
+      {
+        "text": "Inscriptions Market Place",
+        "link": "/faq/inscriptions-market-place"
+      },
+      {
+        "text": "Web3 Wallet Campaigns",
+        "link": "/faq/web3-wallet-campaigns"
+      }
+    ]
+  },
+  {
+    "icon": "/images/crypto-deposit.png",
+    "text": "Crypto Deposit Withdrawal",
+    "link": "/faq/crypto-deposit-withdrawal",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/buy-crypto-fiat.png",
+    "text": "Buy Crypto Fiat/P2P",
+    "link": "/faq/buy-crypto-fiat-p2p",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/spot-margin-trading.png",
+    "text": "Spot & Margin Trading",
+    "link": "/faq/spot-margin-trading",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/crypto-derivatives.png",
+    "text": "Crypto Derivatives",
+    "link": "/faq/crypto-derivatives",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/trading-bots.png",
+    "text": "Trading Bots",
+    "link": "/faq/trading-bots",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/copy-trading.png",
+    "text": "Copy Trading",
+    "link": "/faq/copy-trading",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/finance.png",
+    "text": "Finance",
+    "link": "/faq/finance",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/launchpool-megadrop.png",
+    "text": "Launchpool & Megadrop",
+    "link": "/faq/launchpool-megadrop",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/binance-earn.png",
+    "text": "FAZ 3 Earn",
+    "link": "/faq",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/binance-fan-token.png",
+    "text": "FAZ 3 Fan Token",
+    "link": "/faq",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/convert-block-trade.png",
+    "text": "Convert & Block Trade",
+    "link": "/faq",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/api.png",
+    "text": "API",
+    "link": "/faq/api",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/binance-link.png",
+    "text": "FAZ 3 Link",
+    "link": "/faq",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/nft.png",
+    "text": "NFT",
+    "link": "/faq/nft",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/binance-square.png",
+    "text": "FAZ 3 Square",
+    "link": "/faq",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/vip.png",
+    "text": "VIP",
+    "link": "/faq/vip",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/tax.png",
+    "text": "Tax",
+    "link": "/faq/tax",
+    "key": 1,
+    "submenus": []
+  },
+  {
+    "icon": "/images/security.png",
+    "text": "Security",
+    "link": "/faq/security",
+    "key": 1,
+    "submenus": []
+  }
+]

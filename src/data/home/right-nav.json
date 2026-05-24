@@ -1,0 +1,12 @@
+[
+  {
+    "item": "Log In",
+    "type": "secondary",
+    "link": "/login"
+  },
+  {
+    "item": "Sign Up",
+    "type": "primary",
+    "link": "/register"
+  }
+]

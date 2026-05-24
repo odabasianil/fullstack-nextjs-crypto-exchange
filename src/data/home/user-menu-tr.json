@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Kontrol Paneli",
+    "icon": "user",
+    "link": "/me/dashboard"
+  },
+  {
+    "text": "Varlıklar",
+    "icon": "assets",
+    "link": "/me/wallet/account/overview"
+  },
+  {
+    "text": "Siparişler",
+    "icon": "orders",
+    "link": "/me/orders/exchange/tradeorder"
+  },
+  {
+    "text": "Hesap",
+    "icon": "user",
+    "link": "/me/settings/kyc"
+  },
+  {
+    "text": "Ayarlar",
+    "icon": "settings",
+    "link": "/me/settings/preference"
+  }
+]

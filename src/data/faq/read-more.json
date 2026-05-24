@@ -1,0 +1,14 @@
+[
+  {
+    "text": "FAZ 3 Academy",
+    "link": "/academy",
+    "image": "/images/readmore-1.png",
+    "description": "Your one-stop guide to all things crypto. Whether you're a rookie or a veteran, we've got you covered."
+  },
+  {
+    "text": "Need Help",
+    "link": "/support",
+    "image": "/images/readmore-2.png",
+    "description": "Got a problem? Get in touch with our 24/7 Customer Support."
+  }
+]

@@ -1,0 +1,564 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./fonts/BinancePlex/";
+
+@layer utilities {
+  body {
+    color: black;
+  }
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus{
+  -webkit-text-fill-color: #000;
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+
+}
+
+.dark {
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover, 
+  input:-webkit-autofill:focus{
+    -webkit-text-fill-color: #fff;
+    -webkit-box-shadow: 0 0 0px 1000px #181A20 inset;
+
+  }
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.answer-link {
+  color: #fcd535;
+  word-wrap: break-word;
+}
+
+.list-item-content {
+  display: block;
+}
+
+.bg-linear {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 2.08%,
+    rgb(255, 255, 255) 97.92%
+  );
+}
+
+.translate-3d-100 {
+  transform: translate3d(0, 100%, 0);
+}
+.translate-none {
+  transition: none;
+}
+.translate-3d-reset {
+  transform: translateZ(0);
+}
+.transition-transform-250 {
+  transition-duration: 250ms;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+}
+
+.dark {
+  .bg-linear {
+    background: linear-gradient(
+      90deg,
+      rgba(24, 26, 32, 0) 2.08%,
+      rgb(24, 26, 32) 97.92%
+    );
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.grid-template {
+  grid-template-areas:
+    "header header header header header"
+    "left subHeader subHeader market right"
+    "left orderbook chart market right"
+    "left orderbook chart trades right"
+    "left orderbook orderform trades right"
+    "left orderbook orderform marketActivity right"
+    "left basictable basictable basictable right"
+    "footer footer footer footer footer";
+    
+}
+
+.grid-template-future {
+  @screen md {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      "subHeader subHeader subHeader"
+      "chart chart orderform"
+      "chart chart orderform"
+      "orderbook trades orderform"
+      "basictable basictable right"
+      "basictable basictable right"
+      "footer footer footer";
+  }
+
+  @screen lg {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+      "subHeader subHeader subHeader subHeader subHeader"
+      "chart chart chart orderbook orderform"
+      "chart chart chart orderbook orderform"
+      "chart chart chart trades orderform"
+      "basictable basictable basictable basictable right"
+      "basictable basictable basictable basictable right"
+      "footer footer footer footer footer";
+  }
+
+  @screen 2xl {
+    grid-template-columns: 2fr 2fr 2fr 1fr 1fr;
+    grid-template-areas:
+      "subHeader subHeader subHeader orderbook orderform"
+      "chart chart chart orderbook orderform"
+      "chart chart chart orderbook orderform"
+      "chart chart chart trades orderform"
+      "basictable basictable basictable basictable right"
+      "basictable basictable basictable basictable right"
+      "footer footer footer footer footer";
+  }
+}
+
+.grid-template-mobile {
+  grid-template:
+    "header" minmax(0px, auto)
+    "delist"
+    "switch" minmax(160px, auto)
+    "charts" 405px
+    "userinfo" 1fr
+    "orderform" 72px / 100vw;
+}
+
+.grid-area-header {
+  grid-area: header;
+}
+.grid-area-left {
+  grid-area: left;
+}
+.grid-area-switch {
+  grid-area: switch;
+}
+.grid-area-delist {
+  grid-area: delist;
+}
+.grid-area-charts {
+  grid-area: charts;
+}
+.grid-area-userinfo {
+  grid-area: userinfo;
+}
+.grid-area-subHeader {
+  grid-area: subHeader;
+}
+.grid-area-market {
+  grid-area: market;
+}
+.grid-area-right {
+  grid-area: right;
+}
+.grid-area-orderbook {
+  grid-area: orderbook;
+}
+.grid-area-chart {
+  grid-area: chart;
+}
+.grid-area-trades {
+  grid-area: trades;
+}
+.grid-area-orderform {
+  grid-area: orderform;
+}
+.grid-area-marketActivity {
+  grid-area: marketActivity;
+}
+.grid-area-basictable {
+  grid-area: basictable;
+}
+.grid-area-footer {
+  grid-area: footer;
+}
+
+.success-skew-button::before {
+  content: "";
+  @apply absolute top-0 w-full h-full -z-[1] -right-[5px] bg-success-100;
+}
+
+.error-skew-button::before {
+  content: "";
+  @apply absolute top-0 w-full h-full -z-[1] -left-[5px] bg-error;
+}
+
+.bn-slider-available-bar {
+  box-sizing: content-box;
+  position: absolute;
+  height: 4px;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  background-color: rgb(234, 236, 239);
+  background-clip: padding-box;
+}
+
+.dark .bn-slider-available-bar {
+  background-color: rgb(43, 49, 57);
+}
+
+.bn-slider-disabled-bar {
+  box-sizing: content-box;
+  position: absolute;
+  height: 4px;
+  background-color: rgb(71, 77, 87);
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  background-clip: padding-box;
+}
+
+.bn-slider-stepper {
+  box-sizing: content-box;
+  position: absolute;
+  transform: translateX(-50%) rotate(45deg);
+  background-color: rgb(24, 26, 32);
+  color: rgb(132, 142, 156);
+  width: 6px;
+  height: 6px;
+  border-radius: 2px;
+  border: 2px solid rgb(71, 77, 87);
+  z-index: 10;
+  overflow: visible;
+  cursor: pointer;
+}
+
+.bn-slider-radio-button {
+  @apply absolute w-4 h-4 bg-black-500 border-[4px] border-[rgb(183,189,198)] z-20 cursor-grab rounded;
+  transform: translateX(-50%) rotate(45deg);
+
+  &::after {
+    content: "";
+    @apply block w-5 h-5 border-2 rounded absolute bg-transparent border-[rgb(30,35,41)] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2;
+  }
+}
+
+.bn-slider-active {
+  @apply bg-gray-300 border-white-100 dark:border-black-500 dark:bg-gray;
+}
+
+.bn-slider-radio-tooltip {
+  position: absolute;
+  top: -4px;
+  left: -13px;
+  margin-top: -24px;
+  padding: 2px 4px;
+  border-radius: 2px;
+  background-color: rgb(30, 35, 41);
+  color: rgb(183, 189, 198);
+  font-size: 14px;
+  vertical-align: top;
+  transform: translateX(-50%);
+  z-index: 10;
+  user-select: none;
+  transition: visibility 0.2s, opacity 0.2s;
+  transform: translateX(-50%) rotate(-45deg);
+}
+
+body ::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  background-color: transparent;
+  height: 10px;
+  width: 10px;
+}
+
+body ::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+  background-clip: padding-box;
+  background-color: #5e6673;
+  background-color: #b7bdc6;
+  border-color: transparent;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+}
+
+html {
+  &.dark {
+    body ::-webkit-scrollbar-thumb,
+    body::-webkit-scrollbar-thumb {
+      background-clip: padding-box;
+      background-color: #5e6673;
+      border-color: transparent;
+      border-radius: 20px;
+      border-style: solid;
+      border-width: 2px;
+    }
+  }
+}
+
+body ::-webkit-scrollbar-corner,
+body::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+.trade-footer-animate {
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-name: animation;
+  animation-delay: 2s;
+  animation-duration: 201s;
+}
+
+@keyframes animation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+.dark {
+  .linear-gradient-1 {
+    background: linear-gradient(to bottom, #eaecef 50%, #2b3139 50%);
+  }
+}
+.linear-gradient-1 {
+  background: linear-gradient(to bottom, #202630 50%, #eaecef 50%);
+}
+
+.react-datepicker__header {
+  @apply bg-transparent #{!important};
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day-name,
+.react-datepicker__day {
+  @apply text-black-100 dark:text-white-100 font-normal #{!important};
+}
+
+.react-datepicker__day {
+  @apply my-0.5 mx-0 w-8 h-8 hover:bg-primary rounded-none hover:text-black-100 #{!important};
+}
+
+.react-datepicker__navigation--previous {
+  @apply top-5 left-2 #{!important};
+}
+
+.react-datepicker__navigation--next {
+  @apply top-5 right-2 #{!important};
+}
+
+.react-datepicker__day--in-range,
+.react-datepicker__day--in-selecting-range {
+  @apply bg-[rgba(240,185,11,0.1)] text-black-100 #{!important};
+}
+
+.react-datepicker__day--selected {
+  @apply bg-primary dark:text-black-100 #{!important};
+}
+
+.react-datepicker__day--range-start {
+  @apply rounded-l-md #{!important};
+}
+
+.react-datepicker__day--range-end {
+  @apply rounded-r-md #{!important};
+}
+
+.filter-drop-shadow {
+  filter: drop-shadow(rgba(24, 26, 32, 0.1) 0px 0px 1px)
+    drop-shadow(rgba(71, 77, 87, 0.08) 0px 7px 14px)
+    drop-shadow(rgba(24, 26, 32, 0.08) 0px 3px 6px);
+}
+
+.twitter-connect-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  max-height: calc(100vh - 300px);
+  overflow: auto;
+}
+
+.typography-Body3,
+.typography-subtitle3 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #b7bdc6;
+}
+
+.twitter-connect-panel_list {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+
+  li {
+    list-style: inside;
+  }
+}
+
+.dialog-split-line {
+  height: 1px;
+  width: 100%;
+}
+.dark {
+  .bg-gradient-link {
+    background: linear-gradient(270deg, #181a20 0%, rgba(24, 26, 32, 0) 100%);
+  }
+}
+.bg-gradient-link {
+  background: linear-gradient(
+    270deg,
+    rgb(255, 255, 255) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.share-translate {
+  transform: translate(110%, -50%);
+}
+
+.transition-width {
+  transition: width 0.2s linear, min-width 0.2s linear;
+}
+
+.faq-body {
+  h1 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    @media (min-width: 768px) {
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 40px;
+    }
+  }
+  h2 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding-top: 28px;
+    padding-bottom: 12px;
+    @media (min-width: 1024px) {
+      font-size: 24px;
+      line-height: 24px;
+    }
+    @media (min-width: 768px) {
+      font-size: 20px;
+      line-height: 24px;
+    }
+  }
+  p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 4px;
+    padding-bottom: 12px;
+    @media (min-width: 1024px) {
+      font-size: 16px;
+      line-height: 28px;
+    }
+    @media (min-width: 768px) {
+      font-size: 16px;
+      line-height: 28px;
+    }
+  }
+  a {
+    display: inline;
+    text-decoration: none;
+    color: rgb(201, 148, 0);
+    &:hover {
+      text-decoration: underline;
+      color: rgb(240, 185, 11);
+      opacity: 0.5;
+    }
+  }
+  h3 {
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 28px;
+    padding-bottom: 12px;
+    font-weight: 600;
+    @media (min-width: 1024px) {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    @media (min-width: 768px) {
+      font-size: 16px;
+      line-height: 28px;
+    }
+  }
+}
+.dark {
+  .faq-body {
+    a {
+      color: #f0b90b;
+    }
+  }
+}
+
+.transition-opacity {
+  transition-duration: 250ms;
+  transition-property: opacity, visibility;
+  transition-timing-function: ease-in-out;
+  z-index: 1400;
+}
+
+.bg-api-linear {
+  background: linear-gradient(180deg, #171d22 0%, #22252e 100%);
+}
+
+@keyframes shake {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.animation-shake {
+  animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+  transform: translate3d(0, 0, 0);
+  perspective: 1000px;
+}
+
+.dotted-line-before::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2px;
+  height: 48px;
+  background-image: repeating-linear-gradient(to bottom, gray 0, gray 2px, transparent 2px, transparent 6px);
+}

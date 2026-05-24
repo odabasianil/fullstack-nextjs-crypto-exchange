@@ -1,0 +1,22 @@
+{
+  "faqItems": [
+    {
+      "id": 1,
+      "icon": "faq-2",
+      "text": "What Is Recurring Buy and Frequently Asked Questions",
+      "link": "/recurring-buy-faq"
+    },
+    {
+      "id": 2,
+      "icon": "faq-2",
+      "text": "How to Use Recurring Buy",
+      "link": "/how-to-use-recurring-buy"
+    },
+    {
+      "id": 3,
+      "icon": "faq-2",
+      "text": "How To Grow Your Crypto Portfolio with Recurring Buy",
+      "link": "/grow-crypto-portfolio"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "name": "BTC/USDT",
+    "link_text": "Bitcoin Price",
+    "link_url": "/en/trade/BTC_USDT",
+    "price": "59,639.99",
+    "change": "1,099.54+1.89%",
+    "high": "59,817.99",
+    "low": "58,540.00",
+    "volume_1": "14,225.33",
+    "volume_2": "842,937,63"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "name": "ETH/USDT",
+    "link_text": "Ethereum Price",
+    "link_url": "/en/trade/ETH_USDT",
+    "price": "2,174.99",
+    "change": "39.54+1.85%",
+    "high": "2,179.99",
+    "low": "2,130.00",
+    "volume_1": "1,225.33",
+    "volume_2": "342,937,667.43"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "name": "BNB/USDT",
+    "link_text": "FAZ 3 Coin Price",
+    "link_url": "/en/trade/BNB_USDT",
+    "price": "500.99",
+    "change": "9.54+1.95%",
+    "high": "509.99",
+    "low": "490.00",
+    "volume_1": "225.33",
+    "volume_2": "142,937,667.43"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "name": "ADA/USDT",
+    "link_text": "Cardano Price",
+    "link_url": "/en/trade/ADA_USDT",
+    "price": "1.99",
+    "change": "0.04+2.05%",
+    "high": "2.00",
+    "low": "1.95",
+    "volume_1": "25.33",
+    "volume_2": "42,937,667.43"
+  },
+  {
+    "symbol": "XRPUSDT",
+    "name": "XRP/USDT",
+    "link_text": "Ripple Price",
+    "link_url": "/en/trade/XRP_USDT",
+    "price": "1.99",
+    "change": "0.04+2.05%",
+    "high": "2.00",
+    "low": "1.95",
+    "volume_1": "25.33",
+    "volume_2": "42,937,667.43"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "name": "DOGE/USDT",
+    "link_text": "Dogecoin Price",
+    "link_url": "/en/trade/DOGE_USDT",
+    "price": "0.99",
+    "change": "0.04+2.05%",
+    "high": "1.00",
+    "low": "0.95",
+    "volume_1": "25.33",
+    "volume_2": "42,937,667.43"
+  }
+]

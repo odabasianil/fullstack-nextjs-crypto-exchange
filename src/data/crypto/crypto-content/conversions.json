@@ -1,0 +1,78 @@
+{
+  "title": "Popular Tether USDt Conversions",
+  "description": "A selection of other popular currency conversions of Tether USDt to various fiat currencies.",
+  "items": [
+    {
+      "title": "USDT to USD",
+      "currency1Amount": 1,
+      "currency2Amount": 1.0004275,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/USD/USDT"
+    },
+    {
+      "title": "USDT to TRY",
+      "currency1Amount": 1,
+      "currency2Amount": 34.02,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/TRY/USDT"
+    },
+    {
+      "title": "USDT to RUB",
+      "currency1Amount": 1,
+      "currency2Amount": 92.04,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/RUB/USDT"
+    },
+    {
+      "title": "USDT to EUR",
+      "currency1Amount": 1,
+      "currency2Amount": 0.8963831,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/EUR/USDT"
+    },
+    {
+      "title": "USDT to SAR",
+      "currency1Amount": 1,
+      "currency2Amount": 3.7516032,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/SAR/USDT"
+    },
+    {
+      "title": "USDT to AUD",
+      "currency1Amount": 1,
+      "currency2Amount": 1.4806327,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/AUD/USDT"
+    },
+    {
+      "title": "USDT to BRL",
+      "currency1Amount": 1,
+      "currency2Amount": 5.4823428,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/BRL/USDT"
+    },
+    {
+      "title": "USDT to VND",
+      "currency1Amount": 1,
+      "currency2Amount": 24931.77,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/VND/USDT"
+    },
+    {
+      "title": "USDT to INR",
+      "currency1Amount": 1,
+      "currency2Amount": 83.90,
+      "image1": "/images/coin-1.png",
+      "image2": "/images/coin-2.png",
+      "link": "/crypto/buy/INR/USDT"
+    }
+  ]
+}

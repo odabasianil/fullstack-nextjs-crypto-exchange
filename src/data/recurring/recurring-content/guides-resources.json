@@ -1,0 +1,25 @@
+{
+  "guides": [
+    {
+      "id": 1,
+      "title": "How To Grow Your Crypto Portfolio with Recurring Buy",
+      "image": "/images/blog1.png",
+      "link": "/guides/grow-your-crypto-portfolio",
+      "description": "Learn how to grow your crypto portfolio using the recurring buy strategy."
+    },
+    {
+      "id": 2,
+      "title": "Crypto Recurring Investments: Benefits and How to Start",
+      "image": "/images/blog1.png",
+      "link": "/guides/beginners-guide-to-cryptocurrency",
+      "description": "An easy-to-follow guide to get started with cryptocurrency."
+    },
+    {
+      "id": 3,
+      "title": "How to Use Recurring Buy",
+      "image": "/images/blog1.png",
+      "link": "/guides/understanding-blockchain-technology",
+      "description": "Discover how blockchain technology works and its impact on various industries."
+    }
+  ]
+}

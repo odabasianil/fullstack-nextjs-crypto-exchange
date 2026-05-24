@@ -1,0 +1,48 @@
+[
+  {
+    "item": "Buy Crypto",
+    "link": "/crypto/buy",
+    "icon": "language-icon"
+  },
+  {
+    "item": "Markets",
+    "link": "/markets/overview",
+    "icon": "currency-icon"
+
+  },
+  {
+    "item": "Trade",
+    "link": "/trade/BTC_USDT?type=spot",
+    "icon": "language-icon",
+    "subItem": [
+      {
+        "item": "Basic",
+        "subItem": [
+          { "item": "Spot", "link": "/trade/BTC_USDT?type=spot", "desc": "Buy and sell on the Spot market with advanced tools" },
+          { "item": "Margin", "link": "/margin", "desc": "Increase your profits with leverage", "disabled": true },
+          { "item": "P2P", "link": "/p2p", "desc": "Buy & sell cryptocurrencies using bank transfer and 800+ options", "disabled": true },
+          { "item": "Convert & Block Trade", "link": "/convert", "desc": "The easiest way to trade at all sizes", "disabled": true }
+        ]
+      },
+      {
+        "item": "Advanced",
+        "subItem": [
+          { "item": "Trading Bots", "link": "/trading-bots", "desc": "Trade smarter with our various automated strategies - easy, fast and reliable", "disabled": true },
+          { "item": "Copy Trading", "link": "/copy-trading", "desc": "Follow the most popular traders", "disabled": true },
+          { "item": "APIs", "link": "/api", "desc": "Unlimited opportunities with one key", "disabled": true }
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Futures",
+    "link": "/futures/BTC_USDT",
+    "icon": "currency-icon"
+  },
+  {
+    "item": "Buy Crypto Coupons",
+    "link": "/buy-coupons/BTC",
+    "icon": "language-icon",
+    "isBordered":true
+  }
+]

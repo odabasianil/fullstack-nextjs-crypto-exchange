@@ -1,0 +1,53 @@
+{
+  "marketData": [
+    {
+      "title": "Popularity",
+      "value": "#3",
+      "description": "Popularity ranking in the market.",
+      "info":"An indication of the current popularity of a particular cryptocurrency."
+      
+    },
+    {
+      "title": "Market Cap",
+      "value": "₺4,011.67B",
+      "description": "Total market capitalization.",
+      "info":"Market cap is calculated by multiplying the asset's circulating supply with its current price.<div class='mt-[16px] font-semibold'>What this means:</div>A high market cap implies that the asset is highly valued by the market. Currently, the highest market cap asset is Bitcoin."
+    },
+    {
+      "title": "Volume",
+      "value": "₺1,375.17B",
+      "description": "Total trading volume."
+    },
+    {
+      "title": "Circulation Supply",
+      "value": "117.86B",
+      "description": "Total circulating supply.",
+      "info":"Market cap is calculated by multiplying the asset's circulating supply with its current price.<div class='mt-[16px] font-semibold'>What this means:</div>A high market cap implies that the asset is highly valued by the market. Currently, the highest market cap asset is Bitcoin."
+
+    }
+  ],
+  "conversionData": [
+    {
+      "title": "7 days exchange rate",
+      "rate": "+0.03%",
+      "isPositive": true
+    },
+    {
+      "title": "24-hour exchange rate",
+      "rate": "+0.03%",
+      "isPositive": true
+    },
+    {
+      "title": "7 days exchange rate",
+      "rate": "+0.03%",
+      "isPositive": true
+    },
+    {
+      "title": "24-hour exchange rate",
+      "rate": "+0.03%",
+      "isPositive": true
+    }
+  ],
+  "infoHtml": "Tether USDt is experiencing a rise in value this week.<br>Currently, Tether USDt is priced at ₺34.04 per USDT, with a circulating supply of 117.86B USDT, resulting in a total market capitalisation of ₺4,011.67B.<br>Over the past 24 hours, the trading volume for Tether USDt has increased by ₺-21,779,620,505,408.40, representing a -15.8378% rise. Moreover, USDT worth ₺1,375.17B has been traded in the last day.",
+  "conversionInfoHtml": "<div class='font-semibold'>Tether USDt's exchange rate is experiencing an increase.</div><div class='mt-[16px]'>Currently, the value of 1 USDT is 34.04 TRY, indicating that purchasing 5 USDT would cost 170.19 TRY. Conversely, 1.00 TRY can be exchanged for 0.0293793 USDT, and 50.00 TRY can be exchanged for 1.4689654 USDT, exclusive of platform or gas fees.</div>"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Dashboard",
+    "icon": "user",
+    "link": "/me/dashboard"
+  },
+  {
+    "text": "Assets",
+    "icon": "assets",
+    "link": "/me/wallet/account/overview"
+  },
+  {
+    "text": "Orders",
+    "icon": "orders",
+    "link": "/me/orders/exchange/tradeorder"
+  },
+  {
+    "text": "Account",
+    "icon": "user",
+    "link": "/me/settings/kyc"
+  },
+  {
+    "text": "Settings",
+    "icon": "settings",
+    "link": "/me/settings/preference"
+  }
+]

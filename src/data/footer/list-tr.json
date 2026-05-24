@@ -1,0 +1,80 @@
+[
+  {
+    "index": 1,
+    "items": [
+      {
+        "title": "Hakkımızda",
+        "items": [
+          {
+            "title": "Haberler",
+            "url": "/news"
+          },
+          {
+            "title": "Sözleşmeler",
+            "url": "/terms"
+          },
+          {
+            "title": "Koşullar",
+            "url": "/terms"
+          },
+          {
+            "title": "Gizlilik",
+            "url": "/terms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "items": [
+      {
+        "title": "İşlem Yap",
+        "items": [
+          {
+            "title": "BTC/USDT",
+            "url": "/trade/BTC_USDT"
+          },
+          {
+            "title": "ETH/USDT",
+            "url": "/trade/ETH_USDT"
+          },
+          {
+            "title": "AVAX/USDT",
+            "url": "/trade/AVAX_USDT"
+          },
+          {
+            "title": "USDT/TRY",
+            "url": "/trade/USDT_TRY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "items": [
+      {
+        "title": "Öğrenme",
+        "items": [
+          {
+            "title": "Bitcoin Fiyatı",
+            "url": "/trade/BTC_USDT"
+          },
+          {
+            "title": "Ethereum Fiyatı",
+            "url": "/trade/ETH_USDT"
+          },
+          {
+            "title": "AVAX Fiyatı",
+            "url": "/trade/AVAX_USDT"
+          },
+          {
+            "title": "Kripto Para Haberleri",
+            "url": "/tr/news"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "paymentMethods": [
+    {
+      "category": "Fiat Payment",
+      "options": [
+        {
+          "name": "Card (VISA/Mastercard)",
+          "price": "1.02 USD",
+          "icon": "visa"
+        },
+        {
+          "name": "Wello Ramp",
+          "price": "1.02 USD",
+          "icon": "visa",
+          "warningIcon": "payment-warning"
+        }
+      ]
+    },
+    {
+      "category": "P2P Trading",
+      "options": [
+        {
+          "name": "Card (VISA/Mastercard) 2",
+          "price": "1.02 USD",
+          "icon": "visa"
+        },
+        {
+          "name": "Wello Ramp 2",
+          "price": "1.02 USD",
+          "icon": "visa"
+        }
+      ]
+    }
+  ]
+}

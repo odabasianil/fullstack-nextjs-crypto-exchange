@@ -1,0 +1,12 @@
+{
+  "mainItems": [
+    { "name": "Buy & Sell", "matchText": "buy", "path": "/crypto/buy" },
+    { "name": "Recurring Buy", "matchText": "recurring", "path": "/crypto/recurring" },
+    { "name": "Deposit Fiat", "matchText": "deposit", "path": "/crypto/deposit" },
+    { "name": "Withdraw Fiat", "matchText": "withdraw", "path": "/crypto/withdraw" }
+  ],
+  "secondaryItems": [
+    { "name": "Orders", "path": "/", "icon":"orders" },
+    { "name": "FAQ", "path": "/", "icon":"faq" }
+  ]
+}

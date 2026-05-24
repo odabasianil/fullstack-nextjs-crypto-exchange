@@ -1,0 +1,116 @@
+{
+  "currencies": [
+    {
+      "id": "1",
+      "name": "USD",
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "country": "Usd",
+      "min": 15,
+      "max": 20000
+    },
+    {
+      "id": "2",
+      "name": "EUR",
+      "image": "https://www.cryptocompare.com/media/20646/eth_logo.png",
+      "country": "Euro",
+      "min": 30,
+      "max": 20000
+    },
+    {
+      "id": "3",
+      "name": "IDR",
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "country": "Indonesia Rupiah",
+      "min": 40,
+      "max": 20000
+    },
+    {
+      "id": "4",
+      "name": "PHP",
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "country": "Philipine Peso",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "5",
+      "name": "NZD",
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "country": "United Arab Emirates Dirham",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "6",
+      "name": "EUR",
+      "image": "https://www.cryptocompare.com/media/20646/eth_logo.png",
+      "country": "New Zeland Dolar",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "7",
+      "name": "GBP",
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "country": "GBP",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "8",
+      "name": "AUD",
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "country": "AUD",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "9",
+      "name": "AUD",
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "country": "AUD",
+      "min": 50,
+      "max": 20000
+    },
+    {
+      "id": "10",
+      "name": "AUD",
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "country": "AUD",
+      "min": 50,
+      "max": 20000
+    }
+  ],
+  "top_cryptos": [
+    {
+      "name": "BTC",
+      "image": "https://www.cryptocompare.com/media/19633/btc.png",
+      "price": 11293576.77,
+      "historicalROI": 97.0
+    },
+    {
+      "name": "ETH",
+      "image": "https://www.cryptocompare.com/media/20646/eth_logo.png",
+      "price": 1752.53,
+      "historicalROI": 307.0
+    },
+    {
+      "name": "BNB",
+      "image": "https://www.cryptocompare.com/media/40485170/bnb.png",
+      "price": 24.53,
+      "historicalROI": 307.0
+    },
+    {
+      "name": "SOL",
+      "image": "https://www.cryptocompare.com/media/37747734/sol.png",
+      "price": 6.89,
+      "historicalROI": -38.0
+    },
+    {
+      "name": "ADA",
+      "image": "https://www.cryptocompare.com/media/12318177/ada.png",
+      "price": 0.72,
+      "historicalROI": -40.0
+    }
+  ]
+}

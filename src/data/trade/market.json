@@ -1,0 +1,447 @@
+[
+  {
+    "symbol": "USDT",
+    "items": [
+      {
+        "pair": "BNB/USDT",
+        "multiple": "5x",
+        "last_price": "533.9",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "BTC/USDT",
+        "multiple": "5x",
+        "last_price": "59492.58",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "ETH/USDT",
+        "multiple": "5x",
+        "last_price": "592.58",
+        "vol": "13.70M"
+      },
+      {
+        "pair": "XRP/USDT",
+        "multiple": "10x",
+        "last_price": "0.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LTC/USDT",
+        "multiple": "5x",
+        "last_price": "58.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ADA/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "SOL/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ARB/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOGE/USDT",
+        "multiple": "5x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "FIL/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "STX/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "UNI/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "YFI/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LINK/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "AAVE/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOT/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "EOS/USDT",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      }
+    ]
+  },
+  {
+    "symbol": "FDUSD",
+    "items": [
+      {
+        "pair": "BNB/FDUSD",
+        "multiple": "5x",
+        "last_price": "533.9",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "FDUSD/FDUSD",
+        "multiple": "5x",
+        "last_price": "59492.58",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "ETH/FDUSD",
+        "multiple": "5x",
+        "last_price": "592.58",
+        "vol": "13.70M"
+      },
+      {
+        "pair": "XRP/FDUSD",
+        "multiple": "10x",
+        "last_price": "0.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LTC/FDUSD",
+        "multiple": "5x",
+        "last_price": "58.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ADA/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "SOL/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ARB/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOGE/FDUSD",
+        "multiple": "5x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "FIL/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "STX/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "UNI/FDUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      }
+    ]
+  },
+  {
+    "symbol": "USDC",
+    "items": [
+      {
+        "pair": "BNB/USDC",
+        "multiple": "5x",
+        "last_price": "533.9",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "BTC/USDC",
+        "multiple": "5x",
+        "last_price": "59492.58",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "ETH/USDC",
+        "multiple": "5x",
+        "last_price": "592.58",
+        "vol": "13.70M"
+      },
+      {
+        "pair": "XRP/USDC",
+        "multiple": "10x",
+        "last_price": "0.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LTC/USDC",
+        "multiple": "5x",
+        "last_price": "58.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ADA/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "SOL/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ARB/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOGE/USDC",
+        "multiple": "5x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "FIL/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "STX/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "UNI/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "YFI/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LINK/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "AAVE/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOT/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "EOS/USDC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      }
+    ]
+  },
+  {
+    "symbol": "TUSD",
+    "items": [
+      {
+        "pair": "BNB/TUSD",
+        "multiple": "5x",
+        "last_price": "533.9",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "TUSD/TUSD",
+        "multiple": "5x",
+        "last_price": "59492.58",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "ETH/TUSD",
+        "multiple": "5x",
+        "last_price": "592.58",
+        "vol": "13.70M"
+      },
+      {
+        "pair": "XRP/TUSD",
+        "multiple": "10x",
+        "last_price": "0.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LTC/TUSD",
+        "multiple": "5x",
+        "last_price": "58.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ADA/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "SOL/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ARB/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOGE/TUSD",
+        "multiple": "5x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "FIL/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "STX/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "UNI/TUSD",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC",
+    "items": [
+      {
+        "pair": "BNB/BTC",
+        "multiple": "5x",
+        "last_price": "533.9",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "BTC/BTC",
+        "multiple": "5x",
+        "last_price": "59492.58",
+        "vol": "133.70M"
+      },
+      {
+        "pair": "ETH/BTC",
+        "multiple": "5x",
+        "last_price": "592.58",
+        "vol": "13.70M"
+      },
+      {
+        "pair": "XRP/BTC",
+        "multiple": "10x",
+        "last_price": "0.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "LTC/BTC",
+        "multiple": "5x",
+        "last_price": "58.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ADA/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "SOL/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "ARB/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "DOGE/BTC",
+        "multiple": "5x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "FIL/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "STX/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      },
+      {
+        "pair": "UNI/BTC",
+        "multiple": "10x",
+        "last_price": "1.58",
+        "vol": "3.70M"
+      }
+    ]
+  }
+]
